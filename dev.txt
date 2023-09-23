@@ -1,0 +1,12 @@
+https://github.com/ManjuYuva/day.git
+
+arch "$" (8 hits in 1 file of 1 searched)
+  new 6 (8 hits)
+	Line  2: $ git clone https://github.com/ManjuYuva/f.git
+	Line  7: $ cd f\
+	Line 11: $ cd f
+	Line 15: $ git add india.txt
+	Line 18: $ git status
+	Line 29: $ git commit -m "first message"
+	Line 35: $ git push
+	Line 44: $ git pull
