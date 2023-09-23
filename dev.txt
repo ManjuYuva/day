@@ -5,5 +5,10 @@ arch "$" (8 hits in 1 file of 1 searched)
 	Line  2: $ git clone https://github.com/ManjuYuva/f.git
 	Line  7: $ cd f\
 	Line 11: $ cd f
-	Line 15: $ git add india.txt
+	Line 15: $ git add india.t
+
+
+
+
+bhbvgjniynjijmxt
 	Line 18: $ git status
