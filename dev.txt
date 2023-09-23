@@ -7,6 +7,3 @@ arch "$" (8 hits in 1 file of 1 searched)
 	Line 11: $ cd f
 	Line 15: $ git add india.txt
 	Line 18: $ git status
-	Line 29: $ git commit -m "first message"
-	Line 35: $ git push
-	Line 44: $ git pull
